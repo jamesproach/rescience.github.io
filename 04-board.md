@@ -524,3 +524,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Robin Gutzen](https://github.com/rgutzen)  
   Computational Neuroscience - Python  
   ORCID: [0000-0001-7373-5962](https://orcid.org/0000-0001-7373-5962)
+  
+  [James Roach](https://github.com/jamesproach)  
+  Computational Neuroscience - Python, C++  
+  ORCID: [0000-0002-1034-9615](https://orcid.org/0000-0002-1034-9615)
